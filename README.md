@@ -10,6 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigkjp97)](https://bigkjp97.github.io/)
 
 🧟
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
