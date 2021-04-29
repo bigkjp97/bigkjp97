@@ -7,6 +7,8 @@
   <a href="https://blog.csdn.net/qq_38986088"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
+---
+
 > 🗺️ Landscape
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigkjp97)](https://bigkjp97.github.io/)
