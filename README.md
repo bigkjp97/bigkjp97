@@ -1,11 +1,15 @@
 ### Hi there 👋
+
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bigkjp97.bigkjp97&title=Mi%20Amigo)](https://bigkjp97.github.io/)
 <p align="center">
-  <a href="https://github.com/bigkjp97"><img src="https://img.shields.io/badge/-GitHub-black" alt="github"></a>
+  <a href="https://bigkjp97.github.io/"><img src="https://img.shields.io/badge/-GitHub-black" alt="github"></a>
   <a href="https://www.instagram.com/bigkjp97/"><img src="https://img.shields.io/badge/-Ins-ff79c6" alt="ins"></a>
   <a href="https://blog.csdn.net/qq_38986088"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigkjp97)](https://bigkjp97.github.io/)
+
+🧟
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
