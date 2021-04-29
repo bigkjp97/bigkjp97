@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bigkjp97.bigkjp97)](https://bigkjp97.github.io/)
+[![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bigkjp97.bigkjp97&title=Mi%20Amigo)](https://bigkjp97.github.io/)
 <p align="center">
   <a href="https://github.com/bigkjp97"><img src="https://img.shields.io/badge/-GitHub-black" alt="github"></a>
   <a href="https://www.instagram.com/bigkjp97/"><img src="https://img.shields.io/badge/-Ins-ff79c6" alt="ins"></a>
