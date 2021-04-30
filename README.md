@@ -10,8 +10,8 @@ ___
 
 > 🧟 Work Work Work
 
-<!--START_SECTION:kjp\'s readme-->
-<!--END_SECTION:kjp\'s readme-->
+<!--START_SECTION:kjp readme-->
+<!--END_SECTION:kjp readme-->
 
 <!--
 **bigkjp97/bigkjp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
