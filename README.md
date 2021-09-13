@@ -11,7 +11,7 @@ ___
 > 🧟 Work Work Work
 
 <!--START_SECTION:kjp readme-->
-![Profile Views](http://img.shields.io/badge/Mi%20Amigos%E2%99%82%EF%B8%8F-1-ff69b4)
+![Profile Views](http://img.shields.io/badge/Mi%20Amigos%E2%99%82%EF%B8%8F-0-ff69b4)
 
 📊 **Last Week 周小结** 
 
