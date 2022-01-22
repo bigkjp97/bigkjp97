@@ -17,13 +17,13 @@ ___
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     12 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   12 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.0%
 
 ```
 
