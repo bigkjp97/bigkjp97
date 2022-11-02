@@ -17,13 +17,13 @@ ___
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       4 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.0%
 
 ```
 
