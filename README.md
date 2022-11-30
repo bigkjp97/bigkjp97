@@ -17,13 +17,13 @@ ___
 
 ```text
 💬 Programming Languages: 
-SQL                      49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
