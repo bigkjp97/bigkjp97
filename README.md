@@ -17,13 +17,13 @@ ___
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
